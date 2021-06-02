@@ -1,0 +1,15 @@
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\WindowsInput.dll
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\WindowsInput.xml
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\MouseMovDragon.exe.config
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\MouseMovDragon.exe
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\MouseMovDragon.pdb
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\brahmi\source\repos\WindowsFormsApp4\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\brahmiMouseMovDrag.Properties.Resources.resources
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\MouseMovDragon.exe
+C:\Users\brahmi\source\repos\WindowsFormsApp4\obj\Debug\MouseMovDragon.pdb
